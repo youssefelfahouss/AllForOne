@@ -1,23 +1,22 @@
 
-Nome del Progetto: AllForOne (AFO)
+# Nome del Progetto: AllForOne (AFO)
 
-Descrizione del Progetto
+## Descrizione del Progetto
 
 AllForOne è una piattaforma di crowdfunding innovativa che connette donatori e beneficiari in modo diretto e trasparente. Oltre a consentire donazioni verso cause o progetti specifici, AFO permette ai donatori di comunicare direttamente con i beneficiari, offrendo la possibilità di instaurare un dialogo continuo e seguire gli sviluppi del progetto sostenuto. Attraverso questa connessione, i donatori possono avere un impatto tangibile e ottenere aggiornamenti in tempo reale, mentre i beneficiari possono condividere le loro esperienze e far sentire i donatori parte della loro crescita.
 
-Tagline
+## Tagline
 
-> "Donare non è mai stato così personale"
+#### > "Donare non è mai stato così personale"
 
 
-
-Problema che Risolve
+## Problema che Risolve
 
 Molte piattaforme di crowdfunding attualmente disponibili limitano le interazioni tra donatori e beneficiari, creando un distacco che può ridurre il coinvolgimento emotivo e la fiducia. Senza comunicazione diretta, i donatori spesso non sanno come vengono utilizzati i fondi e hanno poche informazioni sui beneficiari al di là della richiesta di donazione. Questo può causare mancanza di trasparenza e sfiducia verso l'efficacia delle donazioni, specialmente per cause che richiedono aggiornamenti costanti.
 
 AllForOne risolve questi problemi consentendo ai donatori di entrare in contatto diretto con i beneficiari, ricevendo feedback regolari e aggiornamenti sul progresso dei progetti o delle cause. In questo modo, la piattaforma crea un’esperienza di donazione più personale e interattiva, aumentando la trasparenza e il coinvolgimento.
 
-Competitor Principali
+## Competitor Principali
 
 1. GoFundMe - Piattaforma di crowdfunding generalista che consente la raccolta fondi per persone, cause, emergenze, ma senza possibilità di comunicazione diretta tra donatori e beneficiari.
 
@@ -35,7 +34,7 @@ Competitor Principali
 
 
 
-Requisiti Funzionali
+## Requisiti Funzionali
 
 1. Registrazione e Autenticazione Utenti - I donatori e beneficiari devono potersi registrare e accedere con email o social login.
 
@@ -62,7 +61,7 @@ Requisiti Funzionali
 
 
 
-Requisiti Non Funzionali
+## Requisiti Non Funzionali
 
 1. Sicurezza dei Dati - Implementazione di crittografia per proteggere dati sensibili, messaggi e transazioni.
 
@@ -83,7 +82,7 @@ Requisiti Non Funzionali
 
 
 
-Requisiti di Dominio
+## Requisiti di Dominio
 
 1. Leggi e Regolamentazioni per il Crowdfunding - Conformità con le leggi locali e internazionali che regolano il crowdfunding, inclusi eventuali requisiti di licenza o registrazione.
 
